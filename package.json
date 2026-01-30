@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Nishant-gif622/project3",
+  "homepage": "https://github.com/Nishant-gif622/timetable",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
